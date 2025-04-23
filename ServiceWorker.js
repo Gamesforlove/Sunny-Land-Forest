@@ -1,9 +1,9 @@
 const cacheName = "Undefined -Sunny Land Forest-1.0";
 const contentToCache = [
-    "Build/Sunny Land Forest Web.loader.js",
-    "Build/Sunny Land Forest Web.framework.js.br",
-    "Build/Sunny Land Forest Web.data.br",
-    "Build/Sunny Land Forest Web.wasm.br",
+    "Build/My games.loader.js",
+    "Build/My games.framework.js",
+    "Build/My games.data",
+    "Build/My games.wasm",
     "TemplateData/style.css"
 
 ];
